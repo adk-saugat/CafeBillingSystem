@@ -1,9 +1,3 @@
-// Name: Saugat Adhikari
-// Course: CSCI 2003 Spring 2024
-// Program Description: This program takes coffee order of the customer. And then calculates 
-//                      their total price for the coffee by giving discount if they have their 
-//                      membership, giving tip and adding taxes. It also shows then their total bill at last.
-
 import java.util.Scanner;
 
 public class Cafe {
