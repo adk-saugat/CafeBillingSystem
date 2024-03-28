@@ -1,9 +1,3 @@
-// Name: Saugat Adhikari
-// Course: CSCI 2003 Spring 2024
-// Program Description: This program creates the customer class and adds the required constructors
-//                      and adds setters and getters for the program, and also adds other methods
-//                      to check the membership, calculate the total costs, and show the bill.
-
 /**
  * CafeCustomer class represents a customer in a cafe.
  */
